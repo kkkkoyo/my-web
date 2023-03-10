@@ -31,9 +31,24 @@ h3 {
     padding: 30px;
 }
 
+h4 {
+    font-size: 22px;
+    padding: 20px;
+}
+
 h5 {
     padding: 5px;
-    font-size: 20px;
+    font-size: 18px;
+}
+
+h6 {
+  padding: 5px;
+  font-size: 14px;
+}
+
+h7 {
+  padding: 25px;
+  font-size: 4px;
 }
 
 
